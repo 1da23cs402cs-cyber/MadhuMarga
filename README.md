@@ -1,115 +1,146 @@
-# 🐝 MadhuMarga – Android App
+# MadhuMarga 🐝
 
-A modern Android application designed to help beekeepers manage hives efficiently. It allows you to track hive activity, monitor honey production, and receive smart suggestions for better hive maintenance.
+## Smart Beekeeping Assistant Android App
 
----
-
-## 🚀 Features
-
-• 📋 Hive registration and management
-• 🍯 Honey production tracking
-• 📊 Activity monitoring
-• 🤖 Smart suggestion system
-• 💾 Offline storage using Room Database
-• 🎨 Clean UI with Jetpack Compose
+MadhuMarga is an Android application built using Kotlin and Jetpack Compose to help beekeepers efficiently manage hives, monitor honey production, track hive health, and analyze hive performance.
 
 ---
 
-## 🛠️ Tech Stack
+## 📱 Features
 
-• Language: Kotlin
-• UI: Jetpack Compose
-• Database: Room
-• Architecture: MVVM
+### 🔐 Login Screen
+
+- Demo login system for project demonstration
+- Clean Material 3 UI design
+
+### 🏠 Home Dashboard
+
+- View hive information
+- Honey collection tracking
+- Queen bee presence monitoring
+- Pest detection status
+- Honey flow progress tracking
+- Delete hive functionality
+
+### ➕ Add Hive
+
+- Add new hive details dynamically
+- Store hive data using Room Database
+
+### 📜 Hive Inspection History
+
+- Track hive inspection records
+- View inspection status and timestamps
+
+### 🌼 Flora Calendar
+
+- Seasonal flower guidance for improved honey production
+- Helps understand nectar flow periods
+
+### 📊 Analytics Dashboard
+
+- Total hive count
+- Total honey collected
+- Average honey production
+- Best performing hive analysis
+
+### 👤 Profile Screen
+
+- User profile information
+- Dynamic hive statistics
+
+### ⚙️ Settings Screen
+
+- Notification toggle for hive alerts and reminders
+- App information section
+
+---
+
+## 🛠️ Technologies Used
+
+- Kotlin
+- Jetpack Compose
+- Room Database
+- Material 3
+- MVVM Architecture
+- Android Studio
 
 ---
 
 ## 📂 Project Structure
 
+```text
 com.example.madhumarga
 
-data/ → Database and models
-ui/ → Compose UI screens
-viewmodel/ → Business logic
-utils/ → Helper classes
+data/        → Database and model classes
+ui/          → Jetpack Compose UI screens
+viewmodel/   → Business logic and state management
+```
 
 ---
 
 ## ⚙️ Setup Instructions
+### Repository Link
 
-### Clone the Repository
+https://github.com/1da23cs402cs-cyber/MadhuMarga
 
-git clone [https://github.com/malikarshid01430-byte/MadhuMarga.git](https://github.com/malikarshid01430-byte/MadhuMarga.git)
+### Clone Repository
 
----
+```bash
+git clone https://github.com/1da23cs402cs-cyber/MadhuMarga.git
+```
 
-### Or Download ZIP
-
-1. Go to the repository on GitHub
-2. Click Code
-3. Click Download ZIP
-4. Locate the downloaded ZIP file
-5. Right click the file
-6. Select Extract Here or Extract to folder
-7. Open the extracted folder
-
----
-
-### Import into Android Studio
+### Open in Android Studio
 
 1. Open Android Studio
-2. Click Open
-3. Select the extracted project folder
-4. Wait for Gradle sync to complete
-5. Click Run to launch the app
+2. Click on Open Project
+3. Select the MadhuMarga folder
+4. Wait for Gradle sync
+5. Run the application on Emulator or Android device
 
 ---
 
-## 🧠 Smart Suggestions
+## 📷 Application Screenshots
 
-• Add queen bee if missing
-• Take action when activity is low
-• Harvest ready when honey exceeds threshold
+_Add screenshots here after uploading images to GitHub._
 
----
+Suggested screenshots:
 
-## 🎯 Purpose
-
-This app helps you manage beekeeping tasks digitally. You can track hive data, improve productivity, and make better decisions with clear insights.
-
----
-
-## 🔮 Future Improvements
-
-• GPS based hive tracking
-• Analytics dashboard
-• Seasonal insights
-• Cloud sync and backup
-• Advanced AI features
+1. Login Screen
+2. Home Dashboard
+3. Hive History
+4. Flora Calendar
+5. Analytics Dashboard
+6. Profile Screen
+7. Settings Screen
 
 ---
 
-## 🤝 Contributing
+## 🚀 Future Improvements
 
-Fork the repository
-Create a new branch
-Make changes and commit
-Push and create a pull request
-
----
-
-## 📄 License
-
-MIT License
+- Firebase Authentication
+- Cloud Data Synchronization
+- Push Notifications
+- AI-based Hive Health Prediction
+- Weather API Integration
+- Image-based Pest Detection
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
-Developed by Arshid Ahmad Malik
+**C S Manoj**  
+Android Development Intern  
+Dr. Ambedkar Institute of Technology
+
+---
+
+## 📌 Project Purpose
+
+This project was developed as part of an Android Development Internship to demonstrate modern Android application development using Kotlin, Jetpack Compose, MVVM architecture, and Room Database.
 
 ---
 
 ## ⭐ Support
 
-If you find this project useful, give it a star
+If you found this project useful, consider giving it a star ⭐ on GitHub.
