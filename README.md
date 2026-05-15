@@ -116,6 +116,13 @@ git clone https://github.com/1da23cs402cs-cyber/MadhuMarga.git
 ![Additional Home Screen](screenshots/home2.png)
 
 ---
+## ➕ Add Hive Screen
+
+Allows users to add new hive information and save it locally using Room Database.
+
+![Add Hive](screenshots/hiveadd.png)
+
+---
 
 ### 📜 Hive History
 ![Hive History](screenshots/history.png)
