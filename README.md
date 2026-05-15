@@ -1,4 +1,4 @@
-# MadhuMarga 🐝
+<img width="1920" height="1080" alt="login" src="https://github.com/user-attachments/assets/df9f75d8-f9d0-4458-a979-91374842bb5d" /># MadhuMarga 🐝
 
 ## Smart Beekeeping Assistant Android App
 
@@ -102,17 +102,43 @@ git clone https://github.com/1da23cs402cs-cyber/MadhuMarga.git
 
 ## 📷 Application Screenshots
 
-_Add screenshots here after uploading images to GitHub._
+### 🔐 Login Screen
+![Login Screen](screenshots/login.png)
 
-Suggested screenshots:
+---
 
-1. Login Screen
-2. Home Dashboard
-3. Hive History
-4. Flora Calendar
-5. Analytics Dashboard
-6. Profile Screen
-7. Settings Screen
+### 🏠 Home Dashboard
+![Home Dashboard](screenshots/home.png)
+
+---
+
+### 🏠 Additional Dashboard View
+![Additional Home Screen](screenshots/home2.png)
+
+---
+
+### 📜 Hive History
+![Hive History](screenshots/history.png)
+
+---
+
+### 🌼 Flora Calendar
+![Flora Calendar](screenshots/flora.png)
+
+---
+
+### 📊 Analytics Dashboard
+![Analytics Dashboard](screenshots/analytics.png)
+
+---
+
+### 👤 Profile Screen
+![Profile Screen](screenshots/profile.png)
+
+---
+
+### ⚙️ Settings Screen
+![Settings Screen](screenshots/settings.png)
 
 ---
 
